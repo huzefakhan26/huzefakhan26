@@ -107,6 +107,3 @@ Hi, I'm **Huzefa Khan** — a software developer who builds full-stack web appli
 ![Profile Views](https://komarev.com/ghpvc/?username=huzefakhan26&color=1a1b27&style=for-the-badge&label=Profile+Views)
 
 </div>
-
-
-
