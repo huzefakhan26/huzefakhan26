@@ -3,7 +3,7 @@
 # Huzefa Khan
 ### Software Developer — MERN Stack | Python | C++
 
-<img src="https://user-images.githubusercontent.com/74038190/213760677-e45ca5f7-d1aa-4c2c-91e0-573819287304.gif" width="400"/>
+<img src="https://media1.tenor.com/m/Pvzv_n3xVQ0AAAAd/typing-woman-women-typing.gif" width="400"/>
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:huzefakhan2026@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/huzefa-khan26/)
@@ -106,4 +106,3 @@ Hi, I'm **Huzefa Khan** — a software developer who builds full-stack web appli
 
 </div>
 
--
