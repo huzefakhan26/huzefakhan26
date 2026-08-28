@@ -3,7 +3,9 @@
 # Huzefa Khan
 ### Software Developer — MERN Stack | Python | C++
 
-<img src="https://media1.tenor.com/m/Pvzv_n3xVQ0AAAAd/typing-woman-women-typing.gif" width="400"/>
+<img src="assets/coding-banner.png" width="450"/>
+<!-- ⬆️ This shows the artwork you uploaded — place it at assets/coding-banner.png in this repo -->
+
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:huzefakhan2026@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/huzefa-khan26/)
@@ -105,4 +107,6 @@ Hi, I'm **Huzefa Khan** — a software developer who builds full-stack web appli
 ![Profile Views](https://komarev.com/ghpvc/?username=huzefakhan26&color=1a1b27&style=for-the-badge&label=Profile+Views)
 
 </div>
+
+
 
