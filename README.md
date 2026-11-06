@@ -1,7 +1,7 @@
 <div align="center">
 
 # Huzefa Khan
-### Software Developer — MERN Stack | Python | C++
+### Software Developer — MERN Stack | Python | Java
 
 <img src="assets/coding-banner.png" width="450"/>
 <!-- ⬆️ This shows the artwork you uploaded — place it at assets/coding-banner.png in this repo -->
@@ -17,7 +17,7 @@
 
 ## About
 
-Hi, I'm **Huzefa Khan** — a software developer who builds full-stack web applications using the MERN stack, with a strong foundation in Python and C++. I enjoy solving problems end to end — from designing the database schema to shipping the UI.
+Hi, I'm **Huzefa Khan** — a software developer who builds full-stack web applications using the MERN stack, with a strong foundation in Python and Java. I enjoy solving problems end to end — from designing the database schema to shipping the UI.
 
 - Working with **MongoDB, Express, React, and Node.js**
 - Comfortable with **Python** for scripting and backend logic
