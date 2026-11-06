@@ -1,109 +1,115 @@
-<div align="center">
+# 👋 Hi, I'm Huzefa Khan!
 
-# Huzefa Khan
-### Software Developer — MERN Stack | Python | Java
+<h3 align="center">💻 Software Developer | MERN Stack | Python | Java</h3>
 
-<img src="assets/coding-banner.png" width="450"/>
-<!-- ⬆️ This shows the artwork you uploaded — place it at assets/coding-banner.png in this repo -->
+<p align="center">
+  <img src="assets/coding-banner.png" width="650" alt="Coding Banner"/>
+</p>
 
+<p align="center">
+  <a href="mailto:huzefakhan2026@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/huzefa-khan26/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/huzefakhan26">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:huzefakhan2026@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/huzefa-khan26/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/huzefakhan26)
+---
 
-</div>
+## 🚀 About Me
 
-<br/>
+Hello! I'm **Huzefa Khan**, a passionate software developer interested in building modern, scalable, and impactful applications.
 
-## About
+- 🌐 Building full-stack applications using the **MERN Stack**.
+- 🐍 Working with **Python** for programming and backend development.
+- ☕ Developing programming skills with **Java**.
+- 🧠 Strengthening Data Structures & Algorithms and problem-solving.
+- 🤖 Exploring Artificial Intelligence and Machine Learning.
+- 💡 Interested in combining software development with AI-powered solutions.
 
-Hi, I'm **Huzefa Khan** — a software developer who builds full-stack web applications using the MERN stack, with a strong foundation in Python and Java. I enjoy solving problems end to end — from designing the database schema to shipping the UI.
+---
 
-- Working with **MongoDB, Express, React, and Node.js**
-- Comfortable with **Python** for scripting and backend logic
-- Strong fundamentals in **C++** and data structures
-- Interested in clean architecture, performance, and readable code
+## 🛠️ Tech Stack & Skills
 
-<br/>
+### 💻 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,js" height="55"/>
+</p>
 
-## Future Targets
+### 🎨 Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react" height="55"/>
+</p>
 
-- 🎯 Diving deeper into **AI/ML** — building a strong foundation in Python-based ML libraries (NumPy, Pandas, Scikit-learn) and moving on to deep learning (TensorFlow / PyTorch)
-- 🎯 Applying AI/ML concepts inside full-stack projects (e.g. recommendation systems, predictive features)
-- 🎯 Strengthening DSA and problem-solving skills alongside development work
-- 🎯 Contributing to open-source projects in the web dev and ML space
-- 🎯 Working toward a role that blends **full-stack development with applied AI/ML**
+### ⚙️ Backend Development & Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" height="55"/>
+</p>
 
-<br/>
+### 🔧 Tools & Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" height="55"/>
+</p>
 
-## Tech Stack
+### 🧠 Currently Exploring
+<p>
+  <img src="https://skillicons.dev/icons?i=numpy,pytorch,tensorflow" height="55"/>
+</p>
 
-<table align="center">
-<tr>
-<td align="center" valign="top" width="25%">
+---
 
-**Frontend**
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=react,html,css,js" height="45"/>
+## 🎯 Current Goals
 
-</td>
-<td align="center" valign="top" width="25%">
+- 📚 Master Java, Python, and Data Structures & Algorithms.
+- 🌐 Build advanced full-stack MERN applications.
+- 🤖 Develop practical AI/ML projects using real-world datasets.
+- 🏆 Participate in hackathons and coding competitions.
+- 🌍 Contribute to open-source projects.
+- 🚀 Become a skilled Software Developer specializing in Full-Stack Development and Applied AI.
 
-**Backend & Database**
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" height="45"/>
+---
 
-</td>
-<td align="center" valign="top" width="25%">
+## 📊 GitHub Statistics
 
-**Languages**
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=python,cpp" height="45"/>
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=huzefakhan26&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huzefakhan26&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
 
-</td>
-<td align="center" valign="top" width="25%">
+<p align="center">
+  <img width="70%" src="https://streak-stats.demolab.com?user=huzefakhan26&theme=tokyonight&hide_border=true" />
+</p>
 
-**Tools**
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" height="45"/>
+---
 
-</td>
-</tr>
-</table>
+## 📈 Contribution Activity
 
-<br/>
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=huzefakhan26&theme=tokyo-night&hide_border=true&area=true" />
+</p>
 
-## GitHub Stats
+---
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=huzefakhan26&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huzefakhan26&layout=pie&theme=tokyonight&hide_border=true&langs_count=8"/>
-</div>
+## 🏆 GitHub Trophies
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=huzefakhan26&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</div>
-
-<br/>
-
-## Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=huzefakhan26&theme=tokyo-night&hide_border=true" />
-</div>
-
-<br/>
-
-## Trophies
-
-<div align="center">
+<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=huzefakhan26&theme=tokyonight&no-frame=true&row=1&column=7" />
-</div>
+</p>
 
-<br/>
+---
 
-<div align="center">
+## 👀 Profile Visitors
 
-![Profile Views](https://komarev.com/ghpvc/?username=huzefakhan26&color=1a1b27&style=for-the-badge&label=Profile+Views)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=huzefakhan26&color=1a1b27&style=for-the-badge&label=PROFILE+VIEWS" />
+</p>
 
-</div>
+<h3 align="center">✨ Code. Learn. Build. Repeat. ✨</h3>
+
+<p align="center">
+  <i>Always learning, always building, always improving!</i>
+</p>
